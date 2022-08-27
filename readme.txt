@@ -13,8 +13,6 @@ activate enviroment variable=> source myvenv/scripts/activate
 
 run=> python run.py
 
-ranvijaysingh.rs79@gmail.com
-admin pass.12345
 
 first activate the  run
 activate virtualenv=> myvenv/Scripts/activate
